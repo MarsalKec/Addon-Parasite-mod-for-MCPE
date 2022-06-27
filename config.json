@@ -1,0 +1,124 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "Soul Addon [v1.0.9, 1.17 Support!]",
+        "role": "The Soul Addon is an addon that adds new armor, weapons, tools, bosses, and more to the game, all with special abilities and effects. Such as, the Soul Boss. with 2,000 health, and the Soul Dragon with 5,000. Don't worry though. as the new armor/weapons will get you powerful enough to engage these foes.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/Soul Addon v1.0.9.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/1.png"
+    },
+    {
+        "name": "Turkey Boss",
+        "role": "Hunt Turkey, gather resources, survive, and finally fight the Turkey Boss!! Basically in this mod, you are a pilgrim and you must get your prey, Turkey. This Mod adds 3 new turkeys, 3 new food, 3 new weapons, and 2 new items. Use these resources to your advantage and win the war.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/Turkey_Boss_Mod_Published_21.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/1.png"
+    },
+    {
+        "name": "JourneyCraft Accessories Update",
+        "role": "Bored with vanilla MC? Then this add-on is perfect for you. This addon adds 30+ weapons, 10+ bosses, 25+ materials to be used into your Minecraft! This add-on was inspired by Terraria which explains why there is some Terraria stuff in this addon.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/JourneyCraft Accessories Update MASTERMODE_1592980995048.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/1.png"
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/2T2d0jW1ABwCDBGn-A1CZjNphBd2fD2EDXHCXrDyJdjqkexgzuqlmQLY3XZnJtA7JEYNiAGrDThQuY5pbjPw-t5ARpKWxIBIvio",
+    "view_skin": "https://lh3.googleusercontent.com/HXiqpbdGY7HpIN8rjMvvb9qTz_qPPACg_mOGc8gpetBmFlgOMg07Zp4rdun7s2oTp5NM7hpSTnKf3egwQIHIvyMnGR4OvUCDpFU"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/nHLvASzMP0TEtxM-gebEFS13ektPhmLj-NO5OWosH06HXmrEIRh_FyXkobERDSat9sAQ40hbKbTEWDRUtotZaBe3RS96cKfS0Q",
+    "view_skin": "https://lh3.googleusercontent.com/NF-LmIFpTBohi_cUp2_ysvcgDcfGKKNBnS4d3B1qf6y6VspuAifbnIkHM9ALea4nZJgVj_LTVFhcxloXsuj0gmW4snSjL9fkFQ1y"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ffwxnpm_l9H1kuqjMlUZOMgKsA04E-vXRJ8oCTjXrvvvjzeY_ubcCrxa0lb0GQwIqwSKpR4KVWKkWyQWMQXr3G8xHhLW8czMMWmZ",
+    "view_skin": "https://lh3.googleusercontent.com/SpuyfXtzfQ9PsBLZEJKeasZtYFEnmxcXeANAv_yrktqTPrMZSt30jU4dmmdVQaV50GtJ0zQem5ETRZVQiMw2JTVBoU8ZdTifJe4"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Y0nbPOnpEsLTWK0SWRlK2VOO2f_DiFLfAoshq84XtoQBehh2qjwLYSq9hctwqKKAO018YG94ONfsHlpmAYDHJ6OgMX_jKgD2sG8",
+    "view_skin": "https://lh3.googleusercontent.com/m-mQD37kwgK-Xec-mZU7goL15RjDQy-z-xs5xKwy5oC36t67HedG9Rw94LeKibneZKuB9kwICe5yewC4iTDYR3XweUp8pv3nphw"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
